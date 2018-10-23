@@ -19,6 +19,7 @@ public class NumberSample {
 			
 			return secondNumber;
 		}else {
+			System.out.println("insiode greater number method");
 			return firstNumber;
 		}
 				
